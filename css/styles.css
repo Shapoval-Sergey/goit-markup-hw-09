@@ -350,7 +350,6 @@ p {
     ),
     url('../images/banner/slide4.jpg');
   align-items: center;
-  background-size: cover;
 }
 
 @media screen and (min-width: 1700px) {
